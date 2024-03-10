@@ -1,16 +1,29 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**shaheen-nooruddin/shaheen-nooruddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-header-image](https://github.com/shaheen-nooruddin/shaheen-nooruddin/assets/160755432/b829485a-a27d-40fd-a9ec-4a7807323592)
 
-Here are some ideas to get you started:
+## About Me
+I'm Shaheen Nooruddin, a passionate midlevel full stack developer based in London. I love building cool projects and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+- SQL
+- ASP.NET
+- .NET CORE
+
+# Projects
+- [Project 1](https://github.com/shaheen-nooruddin/finalCapstone): short description of my project:
+- The Task Manager project is a robust and user-friendly application designed to streamline task organization and management for individuals or teams. With intuitive features and a clean interface, users can efficiently create, assign, track, and prioritize tasks, ensuring optimal productivity and collaboration.
+
+
+
+## Contact Me
+- Email: your.email@example.com
+- LinkedIn: (www.linkedin.com/in/shaheen-nooruddin-2818362a2)
+- GitHub:   (https://github.com/shaheen-nooruddin/shaheen-nooruddin)
+  
+
