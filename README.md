@@ -3,7 +3,7 @@
 ![github-header-image](https://github.com/shaheen-nooruddin/shaheen-nooruddin/assets/160755432/b829485a-a27d-40fd-a9ec-4a7807323592)
 
 ## About Me
-I'm Shaheen Nooruddin, a passionate midlevel full stack developer based in London. I love building cool projects and learning new technologies.
+I'm Shaheen Nooruddin, a passionate midlevel full stack developer based in London. I like building interesting applications and learning new technologies.
 
 ## Skills
 - HTML
