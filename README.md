@@ -22,7 +22,7 @@ I'm Shaheen Nooruddin, a passionate midlevel full stack developer based in Londo
 
 
 ## Contact Me
-- Email: your.email@example.com
+- Email: shaheennooruddin8@gmail.com
 - LinkedIn: (www.linkedin.com/in/shaheen-nooruddin-2818362a2)
 - GitHub:   (https://github.com/shaheen-nooruddin/shaheen-nooruddin)
   
